@@ -7,7 +7,7 @@ achieves 88% accuracy which is better than naive LSTMs reaching around 80%. Taki
 mother wavelet. Also, the upsampling employed here is very simple and more sophisticated methods such as SMOTE might help improve the accuracy.
 
 ## Example of AFib
-![Example of AFib segment](AfibExample.png)
+![Example of AFib segment](AfibExample.PNG)
 
 ## CNN structure
 ![VGG like CNN](VGG.png)
