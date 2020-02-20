@@ -6,4 +6,4 @@ representation using Short Time Fourirer Transform (STFT) and then their STFT is
 achieves 88% accuracy which is better than naive LSTMs reaching around 80%. Taking CWT of the signal is definitely a better way but the challenge is to choose the right
 mother wavelet. Also, the upsampling employed here is very simple and more sophisticated methods such as SMOTE might help improve the accuracy.
 
-![VGG like CNN](paper/fig1.png)
+![VGG like CNN](VGG.png)
